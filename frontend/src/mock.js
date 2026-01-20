@@ -46,38 +46,38 @@ export const services = [
 export const galleryImages = [
   {
     id: 1,
-    url: "https://images.unsplash.com/photo-1590856029620-23a411d1945c?w=800",
-    title: "Heavy Material Transport",
+    url: "https://images.unsplash.com/photo-1534097575056-ddba81f714c8?w=800",
+    title: "Construction Site Operations",
     category: "transport"
   },
   {
     id: 2,
-    url: "https://images.unsplash.com/photo-1581094271901-8022df4466f9?w=800",
-    title: "Construction Equipment",
+    url: "https://images.unsplash.com/photo-1603814929877-d5d927322656?w=800",
+    title: "Heavy Equipment Handling",
     category: "equipment"
   },
   {
     id: 3,
-    url: "https://images.unsplash.com/photo-1597476392367-76a58e0f7e8d?w=800",
-    title: "Bulk Material Delivery",
-    category: "bulk"
-  },
-  {
-    id: 4,
-    url: "https://images.unsplash.com/photo-1581094271901-8022df4466f9?w=800",
-    title: "Safe Loading",
+    url: "https://images.unsplash.com/photo-1708204929888-235bc83ddb04?w=800",
+    title: "Professional Dump Truck Service",
     category: "transport"
   },
   {
+    id: 4,
+    url: "https://images.unsplash.com/photo-1762857995681-39f4ddb00e9f?w=800",
+    title: "Large Material Transport",
+    category: "bulk"
+  },
+  {
     id: 5,
-    url: "https://images.unsplash.com/photo-1590856029620-23a411d1945c?w=800",
-    title: "On-time Delivery",
-    category: "delivery"
+    url: "https://images.pexels.com/photos/9529407/pexels-photo-9529407.jpeg?w=800",
+    title: "Construction Equipment Delivery",
+    category: "equipment"
   },
   {
     id: 6,
-    url: "https://images.unsplash.com/photo-1597476392367-76a58e0f7e8d?w=800",
-    title: "Professional Service",
+    url: "https://images.pexels.com/photos/27627498/pexels-photo-27627498.jpeg?w=800",
+    title: "Heavy Machinery Transport",
     category: "service"
   }
 ];
